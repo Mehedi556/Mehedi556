@@ -1,9 +1,9 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Building%20the%20future%2C%20one%20line%20of%20code%20at%20a%20time.&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -22,7 +22,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Hi there 👋
+## Hey there 👋
+
+# As a full-stack developer, I build dynamic and robust web applications using JavaScript, TypeScript, React, Next.js, and Node.js. I work with Express, MongoDB, and Firebase on the backend, and design interfaces with Bootstrap, DaisyUI, and ShadCN UI. I follow MVC and modular architectures, utilizing npm for efficient package management, and focus on writing clean, scalable code
 
 <!--
 **Mehedi556/Mehedi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
