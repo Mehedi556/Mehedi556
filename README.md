@@ -30,7 +30,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mehedi556&theme=iceberg&mode=weekly)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi556&theme=iceberg&mode=weekly" alt="GitHub Streak" /></a>
 
 <!--
 **Mehedi556/Mehedi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
