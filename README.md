@@ -36,9 +36,9 @@
 </p>
 
 <br />
-<a href="#" align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehedi556&show_icons=true&theme=tokyonight" alt="Mehedi's GitHub Stats" />
-</a>
+</p>
 
 <!--
 **Mehedi556/Mehedi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
