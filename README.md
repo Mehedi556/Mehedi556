@@ -34,6 +34,12 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi556&theme=iceberg&mode=weekly" alt="GitHub Streak" /></a>
 </p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi556&show_icons=true&theme=iceberg" alt="Mehedi's GitHub Stats" />
+</a>
+
 <!--
 **Mehedi556/Mehedi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
