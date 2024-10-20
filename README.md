@@ -26,6 +26,14 @@
 
 ### As a full-stack developer, I build dynamic and robust web applications using JavaScript, TypeScript, React, Next.js, and Node.js. I work with Express, MongoDB, and Firebase on the backend, and design interfaces with Bootstrap, DaisyUI, and ShadCN UI. I follow MVC and modular architectures, utilizing npm for efficient package management, and focus on writing clean, scalable code
 
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 <!--
 **Mehedi556/Mehedi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
