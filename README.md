@@ -24,7 +24,7 @@
 
 ## Hey there 👋
 
-# As a full-stack developer, I build dynamic and robust web applications using JavaScript, TypeScript, React, Next.js, and Node.js. I work with Express, MongoDB, and Firebase on the backend, and design interfaces with Bootstrap, DaisyUI, and ShadCN UI. I follow MVC and modular architectures, utilizing npm for efficient package management, and focus on writing clean, scalable code
+### As a full-stack developer, I build dynamic and robust web applications using JavaScript, TypeScript, React, Next.js, and Node.js. I work with Express, MongoDB, and Firebase on the backend, and design interfaces with Bootstrap, DaisyUI, and ShadCN UI. I follow MVC and modular architectures, utilizing npm for efficient package management, and focus on writing clean, scalable code
 
 <!--
 **Mehedi556/Mehedi556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
