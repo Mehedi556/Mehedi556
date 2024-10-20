@@ -1,5 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Abdus%20Salam%20Mehedi%20%7C%20Full%20Stack%20Developer&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ## Hi there 👋
 
 <!--
