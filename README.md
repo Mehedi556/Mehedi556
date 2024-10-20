@@ -32,11 +32,11 @@
 <br />
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi556&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi556&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<br />
+<a href="#" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehedi556&show_icons=true&theme=tokyonight" alt="Mehedi's GitHub Stats" />
 </a>
 
