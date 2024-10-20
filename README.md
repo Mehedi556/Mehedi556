@@ -1,4 +1,5 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Luminance%20🌻&width=1000&height=500)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Abdus%20Salam%20Mehedi%20%7C%20Full%20Stack%20Developer&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+
 ## Hi there 👋
 
 <!--
